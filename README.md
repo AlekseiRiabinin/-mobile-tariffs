@@ -12,3 +12,6 @@ Telecom, Advertising platforms, IT company, Startups, Business services [b2b]
 - Numpy
 - Seaborn
 - Matplotlib
+
+## 4. Results
+KNN model has the best accuracy (0.82) along with Decision Tree and Random Forest (0.80). It means that the model can predict the user behavior based on their record including calls made, messages sent and internet traffic used. Finally, the models are assessed by an AUC graph depicting the best true and false positive rate of binary classification.
